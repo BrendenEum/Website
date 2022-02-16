@@ -2,8 +2,8 @@
 title: Brenden Eum
 role: PhD Candidate, Social & Decision Neuroscience
 avatar_filename: cit_hss_brendeneum_headshot.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include attention and context effects in human
+  decision-making.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD candidate in Social & Decision Neuroscience at Caltech and a member of the Rangel Neuroeconomics Lab. I utilize tools from cognitive neuroscience, economics, and computational psychology to study how attention and context affect human decision-making. Prior to coming to Caltech, I earned my MA in Economics from Columbia University and served as the Joint Micro and Macroeconomics Research Associate at the Columbia Business School. Outside of academics, I am an avid rock climber, snowboarder, and hiker.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
