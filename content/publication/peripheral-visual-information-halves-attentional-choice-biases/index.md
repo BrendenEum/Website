@@ -30,3 +30,4 @@ summary: Peripheral visual information facilitates good decisions through an
   attentional bias mechanism.
 date: 2022-02-17T00:35:27.153Z
 ---
+[Download here.](https://www.rnl.caltech.edu/publications/pdf/eum2021_preprint.pdf)
