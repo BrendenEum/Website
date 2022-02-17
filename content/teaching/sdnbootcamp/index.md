@@ -2,7 +2,7 @@
 title: Social & Decision Neuroscience Graduate Bootcamp
 summary: Instructor
 tags:
-date: 
+date: 2021-09-01
 ---
 
 Summer 2020, Summer 2021

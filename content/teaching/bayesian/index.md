@@ -2,7 +2,7 @@
 title: Bayesian Statistics
 summary: Teaching Assistant
 tags:
-date: 
+date: 2022-02-16
 ---
 
 Winter 2021, Winter 2022
