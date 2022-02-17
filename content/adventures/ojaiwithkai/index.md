@@ -3,7 +3,7 @@ title: Ojai with Kai
 subtitle: 
 
 # Summary for listings and search engines
-summary: A quick day trip to the Black Wall in Ojai, CA.
+summary: 2021.11.07 ~ A quick day trip to the Black Wall in Ojai, CA.
 
 # Link this post with a project
 projects: []

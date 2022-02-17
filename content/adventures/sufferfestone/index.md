@@ -3,7 +3,7 @@ title: Our First Sufferfest Lite
 subtitle: 
 
 # Summary for listings and search engines
-summary: Two days. 1,000+ ft of climbing.
+summary: 2021.11.21 ~ Two days. 1,000+ ft of climbing.
 
 # Link this post with a project
 projects: []

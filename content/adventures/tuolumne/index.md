@@ -3,7 +3,7 @@ title: The Gang Goes to Tuolumne Meadows
 subtitle: 
 
 # Summary for listings and search engines
-summary: 3 days of climbing in heaven.
+summary: 2021.09.05 ~ 3 days of climbing in heaven.
 
 # Link this post with a project
 projects: []

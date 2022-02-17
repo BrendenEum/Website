@@ -3,7 +3,7 @@ title: Speed Climbing the Sleeping Giant
 subtitle: 
 
 # Summary for listings and search engines
-summary: 1020 ft. 2 hrs 47 mins 27 secs.
+summary: 2022.01.08 ~ 1020 ft. 2 hrs 47 mins 27 secs.
 
 # Link this post with a project
 projects: []

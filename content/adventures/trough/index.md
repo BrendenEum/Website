@@ -3,7 +3,7 @@ title: The Trough
 subtitle: 
 
 # Summary for listings and search engines
-summary: My first time climbing at Tahquitz / Suicide Rocks.
+summary: 2021.05.08 ~ My first time climbing at Tahquitz.
 
 # Link this post with a project
 projects: []
