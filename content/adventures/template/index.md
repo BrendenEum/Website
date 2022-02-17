@@ -3,7 +3,7 @@ title: Lots and Lots of Cracks
 subtitle: 
 
 # Summary for listings and search engines
-summary: Taking on the cracks at Mount Wilson.
+summary: Taking on some soft cracks at Mount Wilson
 
 # Link this post with a project
 projects: []
@@ -50,7 +50,7 @@ The downclimb was a sketchy lower off some slopers to a stack of rocks. Definite
 
 We finished the day with a solo on Baby Robbins (T 5.9). It was like a finger/hand crack love-child. I captured a pretty nice photo of Matt with the sunset on the climb.
 
-![screen reader text](featured.jpeg "Baby Robbins")
+![screen reader text](babyrobbins.jpeg "Baby Robbins")
 
 Day 2
 -------
