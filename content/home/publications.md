@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: publications
+widget_id: selected-publications
 headless: true
 weight: 2
-title: Publications
+title: Selected Publications
 subtitle: ""
 content:
   filters:
@@ -23,7 +23,3 @@ design:
   view: citation
   columns: "2"
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
