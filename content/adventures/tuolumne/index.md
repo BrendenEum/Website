@@ -47,7 +47,7 @@ Day 3
 
 On the third day, the group decided to go bouldering in Yosemite Valley. We tried Midnight Lightning, Bachar Crack, and a few other classics. Didn't send anything hard, but we did manage to send a few casual boulders. Don't remember their names.
 
-![screen reader text](midnightlightning.jpg "Midnight Lightning")
+![screen reader text](midnightlightning.png "Midnight Lightning")
 
 After bouldering, we stopped by Tenaya Lake on our way out of the park. The water was ice cold, but I still dunked my whole body for a much-needed wash!
 
