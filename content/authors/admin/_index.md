@@ -2,8 +2,7 @@
 title: Brenden Eum
 role: PhD Candidate, Social & Decision Neuroscience
 avatar_filename: avatar.jpg
-bio: My research interests include attention and context effects in human
-  decision-making.
+bio: Neuroeconomist
 interests:
   - Neuroeconomics
   - Attention
@@ -24,6 +23,8 @@ social:
 organizations:
   - name: California Institute of Technology
     url: https://www.caltech.edu/
+  - name: Rangel Neuroeconomics Lab
+    url: https://www.rnl.caltech.edu/
 education:
   courses:
     - course: PhD in Social & Decision Neuroscience
