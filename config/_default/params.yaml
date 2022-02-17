@@ -27,29 +27,6 @@ marketing:
     google: ''
     baidu: ''
 
-# Contact (edit or remove options as required)
-
-email: beum@caltech.edu
-phone: 714 906 7269
-address:
-  street: 1200 E. California Blvd. MC 228-77
-  city: Pasadena
-  region: CA
-  postcode: '91106'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '34.13923916505131'
-  longitude: '-118.12488145028351'
-directions: Enter Baxter Hall and take the spiral stairs up to Office 336 on Floor 3.
-office_hours:
-  - 'Monday thru Friday 10:30 to 17:00'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-
 # Site header
 
 header:
