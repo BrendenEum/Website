@@ -20,7 +20,7 @@ main:
     weight: 40
   - name: Adventure Diary
     url: '#posts'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
