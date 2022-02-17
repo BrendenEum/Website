@@ -14,7 +14,7 @@ date: "2020-12-21"
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Baby Robbins'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -49,8 +49,6 @@ The downclimb was a sketchy lower off some slopers to a stack of rocks. Definite
 ![screen reader text](biggrunt2.JPG "Ouch")
 
 We finished the day with a solo on Baby Robbins (T 5.9). It was like a finger/hand crack love-child. I captured a pretty nice photo of Matt with the sunset on the climb.
-
-![screen reader text](featured.jpeg "Baby Robbins")
 
 Day 2
 -------
