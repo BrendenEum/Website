@@ -22,8 +22,7 @@ abstract: "A growing body of research has shown that simple choices involve the
   one item is shown at a time, such as e-commerce."
 draft: false
 featured: true
-tags:
-  - Computational Psychology
+tags: []
 image:
   filename: featured
   focal_point: Smart
