@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Adventures
 cms_exclude: true
 
 # View.

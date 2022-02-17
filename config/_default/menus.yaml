@@ -21,8 +21,8 @@ main:
   - name: CV
     url: uploads/cv.pdf
     weight: 40
-  - name: Adventure Diary
-    url: 'https://www.brendeneum.com/posts/'
+  - name: Adventures
+    url: 'https://www.brendeneum.com/adventures/'
     weight: 50
   - name: Contact
     url: '#contact'
