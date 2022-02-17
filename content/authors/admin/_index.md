@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/BrendenEum
 organizations:
-  - name: Caltech
+  - name: California Institute of Technology
     url: https://www.caltech.edu/
 education:
   courses:
