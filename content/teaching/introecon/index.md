@@ -2,9 +2,10 @@
 title: "Introduction to Economics"
 summary: Teaching Assistant
 tags:
-- introecon
-date: 2022-02-17T00:53:00.238Z
+date: 2022-02-16
 ---
+
+Fall 2020
 
 This course is the first introduction to both micro- and macroeconomics for undergraduate students. The course introduces: (1) the law of supply and demand, (2) preferences and choices, (3) consumer theory, (4) production and cost, (5) [imperfect] competition, (6) production factors, (7) wages, (8) and finally dives into macroeconomics [employment, capital and growth, money markets,...].
 

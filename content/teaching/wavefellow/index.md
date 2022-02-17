@@ -2,9 +2,10 @@
 title: Caltech WAVE Fellow Co-Mentor
 summary: Co-Mentor
 tags:
-- wavementor
-date: 2022-02-17T00:53:00.238Z
+date: 2022-02-14
 ---
+
+Summer 2021
 
 "Caltech's WAVE Fellows program aims to foster diversity by increasing the participation of underrepresented students in science and engineering Ph.D. programs and making Caltech's programs more visible and accessible to students not traditionally exposed to Caltech. WAVE Fellows will have the opportunity to conduct research under the guidance of Caltech faculty working at the frontier of their fields."
 

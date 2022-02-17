@@ -2,9 +2,10 @@
 title: Bayesian Statistics
 summary: Teaching Assistant
 tags:
-- bayesian_statistics
-date: 2022-02-17T00:53:00.238Z
+date: 2022-02-17
 ---
+
+Winter 2021, Winter 2022
 
 This course provides an introduction to Bayesian Statistics and its applications to data analysis in various fields. Topics include: (1) discrete models, (2) regression models, (3) hierarchical models, (4) model comparison, and (5) MCMC methods. The course combines theory with hands-on experience so that students can apply them to their own research.
 
