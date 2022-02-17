@@ -40,5 +40,3 @@ superuser: true
 highlight_name: true
 ---
 I am a PhD candidate in Social & Decision Neuroscience at Caltech and a member of the Rangel Neuroeconomics Lab. I utilize tools from cognitive neuroscience, economics, and computational psychology to study how attention and context affect human decision-making. Prior to coming to Caltech, I earned my MA in Economics from Columbia University and served as the Joint Micro and Macroeconomics Research Associate at the Columbia Business School. Outside of academics, I am an avid rock climber, snowboarder, and hiker.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/**2022.2.8 - CV.pdf**" "newtab" >}}resumé{{< /staticref >}}.
