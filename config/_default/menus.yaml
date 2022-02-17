@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#projects'
+    url: 'https://www.brendeneum.com/publication/'
     weight: 20
   - name: Teaching
     url: '#teaching'
