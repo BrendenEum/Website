@@ -22,9 +22,10 @@ abstract: "A growing body of research has shown that simple choices involve the
   one item is shown at a time, such as e-commerce."
 draft: false
 featured: true
-tags: []
+tags:
+  - peripheral
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Peripheral visual information facilitates good decisions through an
