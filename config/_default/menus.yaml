@@ -11,7 +11,7 @@ main:
     url: 'https://www.brendeneum.com/publication/'
     weight: 20
   - name: Teaching
-    url: '#teaching'
+    url: 'https://www.brendeneum.com/teaching/'
     weight: 25
   - name: PhD Consulting
     url: '#page'
