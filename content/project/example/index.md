@@ -20,7 +20,7 @@ external_link: ""
 url_slides: ""
 title: Using belief elicitation to evaluate models of choice processing
 tags:
-  - ComputationalPsychology
+  - Computational Psychology
 links: []
 image:
   caption: ""
