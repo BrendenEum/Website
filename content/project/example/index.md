@@ -25,6 +25,6 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: be.png
+  filename: featured.png
 url_code: ""
 ---
