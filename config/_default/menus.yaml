@@ -14,7 +14,7 @@ main:
     url: 'https://www.brendeneum.com/teaching/'
     weight: 25
   - name: PhD Consulting
-    url: '#page'
+    url: 'https://www.brendeneum.com/consulting/'
     weight: 30
     # Link to a PDF of your resume/CV from the menu.
     # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
@@ -22,7 +22,7 @@ main:
     url: uploads/cv.pdf
     weight: 40
   - name: Adventure Diary
-    url: '#posts'
+    url: 'https://www.brendeneum.com/posts/'
     weight: 50
   - name: Contact
     url: '#contact'
