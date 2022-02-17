@@ -12,33 +12,31 @@ content:
       ? id
     netlify:
       captcha: false
-  autolink: true
+  autolink: true  
   office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    - Monday through Thursday 10:30 to 17:00
+  phone: 714 906 7269
+  directions: Enter Baxter Hall and take the spiral stairs up to Office 336 on Floor 3
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 1200 E. California Blvd. MC 228-77
+    city: Pasadena
     region: CA
-    postcode: "94305"
+    postcode: "91106"
     country: United States
     country_code: US
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/Twitter
+      link: https://twitter.com/EumBrenden
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: https://zoom.com
+      link: https://caltech.zoom.us/j/4913946215?pwd=akRFaFhMVllSdVA4bkxDRlBhMjhJdz09
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    latitude: "34.13923916505131"
+    longitude: "-118.12488145028351"
+  email: beum@caltech.edu
 design:
   columns: "2"
 ---
