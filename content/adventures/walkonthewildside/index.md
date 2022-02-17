@@ -3,7 +3,7 @@ title: Walk on the Wild Side
 subtitle: 
 
 # Summary for listings and search engines
-summary: 2021.04.04 ~ A quick weekend getaway to Joshua Tree.
+summary: \[2021.04.04\] A quick weekend getaway to Joshua Tree.
 
 # Link this post with a project
 projects: []

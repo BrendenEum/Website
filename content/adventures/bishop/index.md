@@ -3,7 +3,7 @@ title: Bishop Sampler
 subtitle: 
 
 # Summary for listings and search engines
-summary: 2021.03.23 ~ A 4-day trip to Bishop, CA.
+summary: \[2021.03.23\] A 4-day trip to Bishop, CA.
 
 # Link this post with a project
 projects: []
