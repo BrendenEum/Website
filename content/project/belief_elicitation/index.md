@@ -1,5 +1,7 @@
 ---
-slides: example
+tags:
+  - belief_elicitation
+slides: Using belief elicitation to evaluate models of choice processing
 url_pdf: ""
 summary: This project seeks to introduce an additional metric for evaluating
   sequential sampling models by tracking the evolution of beliefs throughout a
@@ -19,8 +21,6 @@ date: 2022-02-17T00:53:00.238Z
 external_link: ""
 url_slides: ""
 title: Using belief elicitation to evaluate models of choice processing
-tags:
-  - Computational Psychology
 links: []
 image:
   caption: ""
