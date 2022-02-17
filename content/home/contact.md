@@ -39,4 +39,9 @@ content:
   email: beum@caltech.edu
 design:
   columns: "2"
+features:
+  map:
+    provider: 'google'
+    api_key: ''
+    zoom: 15
 ---
