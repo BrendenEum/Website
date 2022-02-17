@@ -11,7 +11,7 @@ summary: Although models of reference-dependence have become quite influential
   appetitive juice versus a neutral solution. We look at value signals encoded
   in the orbitofrontal cortex at the time of consumption to see if these signals
   depend solely on consumption utility, or if they are also modulated by
-  surprise utility. *Winner of a 2022 Chen Graduate Innovator Grant.*
+  surprise utility. *Winner of the 2022 Chen Graduate Innovator Grant.*
 authors:
   - Brenden Eum
   - Antonio Rangel
