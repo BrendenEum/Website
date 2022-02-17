@@ -30,7 +30,7 @@ categories:
 
 Yujia, Eddie, Dorene, and I made a quick weekend trip up to Big Bear, CA. We spent the first day at Bear Mountain. I decided to start learning how to hit the bigger jumps. It's not 100 percent consistent, but I think I've managed to get a bit better. I even hit some of the giant ramps, though I'm not getting enough air to clear the landing...
 
-![screen reader text](air43.jpg "I wiped out right after this")
+![screen reader text](air43.png "I wiped out right after this")
 
 Conditions on the first day were amazing! I was surprised, given that the forecast was for temperatures in the sixties. The slopes started off a bit icy in the morning, but within an hour or two, they grew to be arguably ideal.
 
