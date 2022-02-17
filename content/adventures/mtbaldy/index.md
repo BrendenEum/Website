@@ -28,7 +28,7 @@ categories:
 ---
 
 
-Yujia and I hiked the <a href="https://www.alltrails.com/trail/us/california/mount-san-antonio-mount-baldy-notch-trail"> Mt. San Antonio and Mt. Baldy Notch Trail</a>, which is a 9.6 mile loop to the summit of Mt. Baldy and back. We took the East to West route with 3,943 feet of elevation gain.
+Yujia and I hiked the Mt. San Antonio and Mt. Baldy Notch Trail, which is a 9.6 mile loop to the summit of Mt. Baldy and back. We took the East to West route with 3,943 feet of elevation gain.
 
 ![screen reader text](yujia.jpg)
 
