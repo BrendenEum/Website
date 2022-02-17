@@ -28,7 +28,7 @@ tags:
 categories:
 ---
 
-{{< gallery album="<lotsandlostofcracks>" >}}
+
 
 Day 1
 -------
