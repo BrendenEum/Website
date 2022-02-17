@@ -1,43 +1,40 @@
 ---
 title: Brenden Eum
 role: PhD Candidate, Social & Decision Neuroscience
-avatar_filename: cit_hss_brendeneum_headshot.jpg
+avatar_filename: square-headshot.jpg
 bio: My research interests include attention and context effects in human
   decision-making.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroeconomics
+  - Attention
+  - Reference Dependence
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+    link: https://twitter.com/EumBrenden
+  - icon: google-scholar
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ToUkb5sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/BrendenEum
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Caltech
+    url: https://www.caltech.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social & Decision Neuroscience
+      institution: California Institute of Technology
+      year: 2024
+    - course: MA in Economics
+      institution: Columbia University
+      year: 2017
+    - course: BA Economics
+      institution: New York University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
