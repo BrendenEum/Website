@@ -55,8 +55,6 @@ We started on Heavenly Path boulder, where Yujia and Amy sent a couple of highba
 
 After Heavenly Path boulder, we went to Serengeti boulder. My goal was to send Serengeti (V5). I guess there are dozens of variations for the problem (which I think makes the problem less elegant than others). I ended up going with a toe-hook variation that throws me right towards a pocket, skipping nearly all the sloper holds. I sent the problem, but some people mentioned that this variation is graded at V4. Whatever, I'm proud of my beta and my send!  
 
-{{< youtube yklYTuYcTjw >}}
-
 We spent the rest of the day tried whatever boulder problem looked interesting. Yujia and Amy sent a handful of V0's and V1-'s. My personal favorites from this second half of the day were Slight Inducement (V1) and I Killed a Man (V1). 
 
 After the Happys, we grabed dinner and beer at the Mountain Rambler Brewery. Their Scottish Ale blew me away, and we met some residents who were friendly enough to chat about neuroscience and real estate in Bishop! This might have been my favorite day of the whole trip, despite my preference for sport climbing over bouldering.
