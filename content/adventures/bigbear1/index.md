@@ -16,7 +16,7 @@ date: "2022-02-17"
 image:
   caption: 'Big Bear summit'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
