@@ -3,7 +3,7 @@ title: Catching Air in Big Bear
 subtitle: 
 
 # Summary for listings and search engines
-summary: 2022.02.17 ~ Weekend ski trip to Big Bear, CA.
+summary: \[2022.02.17\] Weekend ski trip to Big Bear, CA.
 
 # Link this post with a project
 projects: []
