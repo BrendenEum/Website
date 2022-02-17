@@ -3,7 +3,7 @@ title: Lots and Lots of Cracks
 subtitle: 
 
 # Summary for listings and search engines
-summary: Taking on the cracks at Mount Wilson.
+summary: 2020.12.21 ~ Taking on the cracks at Mount Wilson.
 
 # Link this post with a project
 projects: []

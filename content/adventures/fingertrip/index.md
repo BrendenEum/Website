@@ -3,7 +3,7 @@ title: Fingertrippin
 subtitle: 
 
 # Summary for listings and search engines
-summary: Climbing one of the best moderates at Tahquitz.
+summary: 2021.06.22 ~ Climbing one of the best moderates at Tahquitz.
 
 # Link this post with a project
 projects: []

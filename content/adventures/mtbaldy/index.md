@@ -3,7 +3,7 @@ title: Mount Baldy Hike
 subtitle: 
 
 # Summary for listings and search engines
-summary: Yujia and I summit Mt. Baldy.
+summary: 2021.05.01 ~ Yujia and I summit Mt. Baldy.
 
 # Link this post with a project
 projects: []
