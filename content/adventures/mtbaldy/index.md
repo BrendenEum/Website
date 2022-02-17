@@ -22,7 +22,7 @@ image:
 authors:
 
 tags:
-- climbing
+- hiking
 
 categories:
 ---

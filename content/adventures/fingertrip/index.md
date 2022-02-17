@@ -1,5 +1,5 @@
 ---
-title: "Fingertrippin'"
+title: Fingertrippin
 subtitle: 
 
 # Summary for listings and search engines
