@@ -16,7 +16,7 @@ date: "2021-09-05"
 image:
   caption: 'West Country'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

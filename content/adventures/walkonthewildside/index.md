@@ -16,7 +16,7 @@ date: "2021-04-04"
 image:
   caption: ''
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

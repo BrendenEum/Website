@@ -16,7 +16,7 @@ date: "2020-12-21"
 image:
   caption: 'Baby Robbins'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

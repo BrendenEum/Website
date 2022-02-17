@@ -16,7 +16,7 @@ date: "2021-05-08"
 image:
   caption: 'Picture taken from Climbing Magazine. Photo by Bennett Barthelemy / Aurora Photos.'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

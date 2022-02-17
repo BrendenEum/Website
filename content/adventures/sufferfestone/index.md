@@ -16,7 +16,7 @@ date: "2021-11-21"
 image:
   caption: 'On top of Dappled Mare'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

@@ -16,7 +16,7 @@ date: "2020-12-28"
 image:
   caption: 'On top of Tethys'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

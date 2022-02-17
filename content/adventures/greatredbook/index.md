@@ -16,7 +16,7 @@ date: "2021-02-21"
 image:
   caption: 'Summit of Great Red Book'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

@@ -16,7 +16,7 @@ date: "2021-05-30"
 image:
   caption: 'Yujia on Sail Away'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

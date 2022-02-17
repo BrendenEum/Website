@@ -16,7 +16,7 @@ date: "2021-03-23"
 image:
   caption: 'Grandpa Peabody'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

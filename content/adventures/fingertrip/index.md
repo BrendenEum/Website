@@ -16,7 +16,7 @@ date: "2021-06-22"
 image:
   caption: 'Fingertrip'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:

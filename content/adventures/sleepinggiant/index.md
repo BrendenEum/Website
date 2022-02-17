@@ -16,7 +16,7 @@ date: "2022-01-08"
 image:
   caption: 'El Cajon, San Diego'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
