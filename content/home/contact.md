@@ -11,7 +11,7 @@ content:
     formspree:
       ? id
     netlify:
-      captcha: false
+      captcha: true
   autolink: true  
   office_hours:
     - Monday through Thursday 10:30 to 17:00
