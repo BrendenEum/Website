@@ -10,9 +10,9 @@ content:
   filter_default: 0
   filter_button:
     - name: Evaluating Choice Processing Models
-      tag: Belief Elicitation
+      tag: belief_elicitation
     - name: Surprise Utility
-      tag: Surprise Utility
+      tag: surprise_utility
 design:
   columns: "2"
   view: 2
