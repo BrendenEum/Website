@@ -20,7 +20,6 @@ image:
   preview_only: false
 
 authors:
-- admin
 
 tags:
 - climbing
