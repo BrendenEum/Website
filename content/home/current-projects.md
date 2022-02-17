@@ -2,7 +2,7 @@
 widget: pages
 widget_id: current-projects
 headless: true
-weight: 2
+weight: 3
 title: Current Projects
 subtitle: ""
 active: false
