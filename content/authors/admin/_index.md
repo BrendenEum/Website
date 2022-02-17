@@ -1,7 +1,7 @@
 ---
 title: Brenden Eum
 role: PhD Candidate, Social & Decision Neuroscience
-avatar_filename: square-headshot.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include attention and context effects in human
   decision-making.
 interests:
