@@ -4,13 +4,13 @@ url_pdf: ""
 summary: This project seeks to introduce an additional metric for evaluating
   sequential sampling models by tracking the evolution of beliefs throughout a
   decision. In order to elicit continuous reporting of beliefs throughout a
-  single decision process, I built a physical slider device that enables
-  low-effort, intuitive, and continuous reporting. I combine a psychophysical
+  single decision process, we built a physical slider device that enables
+  low-effort, intuitive, and continuous reporting. We combine a psychophysical
   task (Tsetsos et al., 2016) with an incentive-compatible belief reporting
   mechanism (Holt and Smith, 2009) to elicit truthful reporting in a task that
-  requires accumulation of information. I can then compare the observed
-  evolution of beliefs with simulated belief paths to determine which sequential
-  sampling model most closely resembles the choice process.
+  requires accumulation of information. We then compare the observed evolution
+  of beliefs with simulated belief paths to determine which sequential sampling
+  model most closely resembles the choice process.
 authors:
   - Brenden Eum
   - Antonio Rangel
