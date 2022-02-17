@@ -9,7 +9,7 @@ summary: A quick weekend getaway to Joshua Tree.
 projects: []
 
 # Date published
-date: "2020-12-21"
+date: "2021-04-04"
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
