@@ -2,7 +2,7 @@
 title: "Introduction to Economics"
 summary: Teaching Assistant
 tags:
-date: 2022-02-16
+date: 
 ---
 
 Fall 2020
