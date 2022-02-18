@@ -1,5 +1,5 @@
 ---
-title: PhD Application Consulting
+title: Graduate Application Consulting
 cms_exclude: true
 
 # Optional header image (relative to `static/media/` folder).
@@ -20,23 +20,25 @@ header:
  - PhD Decision Neuroscience
  - PhD Political Science
  - PhD Decision Psychology / Decision Science
+ - Predoctoral fellowships
 
  Accepted at:
 
 - Economics
-  - U Michigan
-  - UCLA
-  - U Maryland
-  - U Minnesota
+  - U Michigan PhD
+  - UCLA PhD
+  - U Maryland PhD
+  - U Minnesota PhD
+  - Columbia Business School Predoctoral Fellowship
+  - Columbia Economics Masters
+  - NYU Economics Masters
 
 - Neuroscience
   - Caltech
 
 I've helped others get into:
 
-- Economics
-  - PhD Global Economics and Management, UCLA Anderson School of Management
-  - PhD Political Science, UCSD
-  - PhD Economics, U Chicago
-
+- PhD Global Economics and Management, UCLA Anderson School of Management
+- PhD Political Science, UCSD
+- PhD Economics, U Chicago
 - PhD Sociology, U Texas Austin
