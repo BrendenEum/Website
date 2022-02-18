@@ -6,6 +6,12 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
+
+# Homepage
+type: widget_page
+
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
 
  I have extensive experience with applying to many different types of programs and jobs. Here are just a few examples of places that I've worked at, attended, or interviewed at:
