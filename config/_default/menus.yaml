@@ -4,26 +4,26 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: "  Home  "
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: "  Publications  "
     url: 'https://www.brendeneum.com/publication/'
     weight: 20
-  - name: Teaching
+  - name: "  Teaching  "
     url: 'https://www.brendeneum.com/teaching/'
     weight: 25
-  - name: Graduate Consulting
+  - name: "  Graduate Consulting  "
     url: 'https://www.brendeneum.com/consulting/'
     weight: 30
     # Link to a PDF of your resume/CV from the menu.
     # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
+  - name: "  CV  "
     url: uploads/cv.pdf
     weight: 40
-  - name: Adventures
+  - name: "  Adventures  "
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
-  - name: Contact
+  - name: "  Contact  "
     url: '#contact'
     weight: 60
