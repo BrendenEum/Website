@@ -32,11 +32,14 @@ I am here to help you with your application process, whether it's a few years aw
 
 - is graduate school right for you?
 - what courses should you be taking.
-- what steps to take on your research project.
+- how to tackle your independent research project.
 - how to go about obtaining strong letters of recommendation.
+- what extracurriculars might help with your applications.
 - how to structure your application essays.
 - what you should expect during interviews.
 - how to leverage your acceptances to get a better offer package.
+
+I can also help you with your independent research. Having trouble coming up with an interesting question? Don't know what methods to use for your analysis? Need advice on how to visualize your data? These are questions I tackle in my own life on a daily basis, and I can help you overcome these obstacles too!
 
 Why am I qualified to help you?
 ===============================
