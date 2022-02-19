@@ -66,4 +66,4 @@ When I was an undergrad taking graduate probability theory, I enlisted the help 
 
 - The first hour is free.
 - The next five hours are bundled at $350 (i.e. $70 per hour).
-- Any additional time is billed per hour at $75 per hour.
+- Any additional time is billed at $75 per hour.
