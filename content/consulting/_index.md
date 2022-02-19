@@ -6,45 +6,61 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-
-# Homepage
-type: widget_page
-
-# Homepage is headless, other widget pages are not.
-headless: true
 ---
 
- I have extensive experience with applying to many different types of programs and jobs. Here are just a few examples of places that I've worked at, attended, or interviewed at:
+Is this right for you?
+======================
 
- - PhD Economics programs
- - MA Economics programs
- - Columbia Business School Research Assistant
- - Yale Economics Research Assistant
- - Boston Federal Reserve
- - PhD Business Schools (Behavioral Science)
- - PhD Business Economics
- - PhD Decision Neuroscience
- - PhD Political Science
- - PhD Decision Psychology / Decision Science
- - Predoctoral fellowships
+I have extensive experience with applying to graduate programs in Economics, Psychology, Behavioral Science, Neuroscience, and Political Science. I have also successfully obtained research assistant positions and predoctoral fellowships. If you're interested in any of the career paths below, I can help you:
 
- Accepted at:
+- Graduate programs (PhD and masters)
+  - Economics Departments
+  - Business Schools (e.g. economics, behavioral science, marketing, management)
+  - Psychology Departments (emphasis on decision science or computational work)
+  - Neuroscience Departments (emphasis on decision science or cognitive neuroscience)
+  - Political Science
 
-- Economics
-  - U Michigan PhD
-  - UCLA PhD
-  - U Maryland PhD
-  - U Minnesota PhD
-  - Columbia Business School Predoctoral Fellowship
-  - Columbia Economics Masters
-  - NYU Economics Masters
+- Predoctoral paths
+  - Research assistant positions
+  - Federal Reserve research positions
+  - Think tank positions
 
-- Neuroscience
-  - Caltech
+What do I offer?
+================
 
-I've helped others get into:
+I am here to help you with your application process, whether it's a few years away or it's right around the corner. My mission is to optimize the time you're spending to build up your portfolio and maximize the probability that you're accepted into a program of your choice. To accomplish this, we will set up a meeting schedule to consistently discuss:
 
-- PhD Global Economics and Management, UCLA Anderson School of Management
-- PhD Political Science, UCSD
-- PhD Economics, U Chicago
-- PhD Sociology, U Texas Austin
+- is graduate school right for you?
+- what courses should you be taking.
+- what steps to take on your research project.
+- how to go about obtaining strong letters of recommendation.
+- how to structure your application essays.
+- what you should expect during interviews.
+- how to leverage your acceptances to get a better offer package.
+
+Why am I qualified to help you?
+===============================
+
+I'm new to this, so I've only helped a few others so far. That being said, others that I have helped have gone onto:
+
+- UCLA Anderson, PhD in Glocal Economics and Management
+- UCSD, PhD in Political Science
+- Princeton, PhD in Economics
+
+I've also gone through many application processes myself. Ultimately, I wound up studying Neuroeconomics at Caltech, but it was a long path to get here. Prior to Caltech, I worked as a research assistant during my undergrad, finished a MA in Economics at Columbia University, and completed a predoctoral fellowship at the Columbia Business School. Along the way, I've interviewed at the Boston Federal Reserve, Yale Economics, and more. I have specific insight into the types of questions you'll be asked during these interviews, as well as, the type of work you'll be asked to do in various research positions.
+
+In case you're still skeptical whether I can help you, I'll list a few of the other departements I've previously been accepted at (but did not attend):
+- U Michigan, PhD in Economics (with added financial incentive)
+- UCLA, PhD in Economics
+- U Maryland, PhD in Economics (with added financial incentive)
+- U Minnesota, PhD in Economics
+- NYU, MA in Economics
+
+How much do I charge?
+=====================
+
+When I was an undergrad taking graduate probability theory, I enlisted the help of a 5th year Statistics PhD student as a tutor. He charged seventy-five dollars an hour. Like him, I'm not trying to make a bunch of money through consulting or tutoring. I'm just trying to make a bit money through a hobby that I already have (yes, I'm one of those redditors on subreddits like r/AcademicEconomics that answers peoples' questions about applying to grad school).
+
+- The first hour is free.
+- The next five hours are bundled at $350 (i.e. $70 per hour).
+- Any additional time is billed per hour at $75 per hour.
