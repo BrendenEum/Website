@@ -1,5 +1,5 @@
 ---
-title: sideprojects
+title: Side Projects
 cms_exclude: true
 
 # View.
