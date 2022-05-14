@@ -1,3 +1,32 @@
+---
+title: Decision Classification Boundaries (Glickman, Moran, and Usher, 2022)
+subtitle: 
+
+# Summary for listings and search engines
+summary: Questionable performance in perceptual data. Poor performance in value-based data.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2022-05-14"
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+#image:
+#  caption: 'Big Bear summit'
+#  focal_point: ""
+#  placement: 1
+#  preview_only: false
+
+authors: Brenden
+
+tags:
+- projects
+
+categories:
+---
+
 <!DOCTYPE html>
 
 <html>
