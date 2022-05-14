@@ -24,6 +24,9 @@ main:
   - name: "  Adventures  "
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
+  - name: "  Side Projects  "
+    url: 'https://www.brendeneum.com/sideprojects/'
+    weight: 55
   - name: "  Contact  "
     url: '#contact'
     weight: 60
