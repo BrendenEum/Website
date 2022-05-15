@@ -25,7 +25,7 @@ main:
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
   - name: "  Late Night Bayes  "
-    url: 'https://www.brendeneum.com/sideprojects/'
+    url: 'http://latenightbayes.com/index.html'
     weight: 55
   - name: "  Contact  "
     url: '#contact'
