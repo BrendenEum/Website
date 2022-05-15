@@ -6,13 +6,6 @@ author: Brenden Eum
 date: April 30, 2022
 ---
 
-<style type="static/css/sideprojformat.css">
-.main-container {
-  max-width: 100% !important;
-  margin: auto;
-}
-</style>
-
 <!DOCTYPE html>
 
 <html>
