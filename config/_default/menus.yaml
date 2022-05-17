@@ -24,7 +24,7 @@ main:
   - name: "  Adventures  "
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
-  - name: "  Late Night Bayes  "
+  - name: "  Late Night Bayes ☾  "
     url: 'http://latenightbayes.com/index.html'
     weight: 55
   - name: "  Contact  "
