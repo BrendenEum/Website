@@ -1,6 +1,6 @@
 ---
 tags:
-  - belief_elicitation
+  - belief_slider
 slides: Using belief elicitation to evaluate models of choice processing
 url_pdf: ""
 summary: This project seeks to introduce an additional metric for evaluating

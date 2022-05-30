@@ -1,5 +1,6 @@
 ---
-slides: Using belief elicitation to evaluate models of choice processing
+slides: Value signals in the orbitofrontal cortex incorporate reference-dependent
+  surprise utility 
 url_pdf: ""
 summary: Although models of reference-dependence have become quite influential
   in behavioral economics, and are capable of explaining some puzzling

@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - admin
+  - Stephanie Dolbier
   - Antonio Rangel
 publication: R&R, Psychological Science
 publication_short: ""
