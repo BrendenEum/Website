@@ -18,7 +18,7 @@ content:
     - name: Flipping Attentional Bias
       tag: gain_loss
 design:
-  columns: "2"
+  columns: "1"
   view: 2
   flip_alt_rows: false
 ---
