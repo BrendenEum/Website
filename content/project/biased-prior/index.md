@@ -5,6 +5,7 @@ summary: There are many sequential sampling models that describe choices in the 
 authors:
   - Brenden Eum
   - Antonio Rangel
+  - Michael Woodford
 url_video: ""
 date: 2022-02-17T02:44:17.563Z
 external_link: ""
