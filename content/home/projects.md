@@ -9,11 +9,11 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Choice Processing Models
+    - name: Evaluating Choice Processing Models
       tag: belief_slider
     - name: Surprise Utility
       tag: surprise_utility
-    - name: Sequential Sampling Models
+    - name: Evaluating Sequential Sampling Models
       tag: biased_prior
     - name: Flipping Attentional Bias
       tag: gain_loss
