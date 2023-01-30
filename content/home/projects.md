@@ -9,13 +9,11 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Evaluating Choice Processing Models
-      tag: belief_slider
     - name: Surprise Utility
       tag: surprise_utility
-    - name: Evaluating Sequential Sampling Models
+    - name: Numerosity Perception
       tag: biased_prior
-    - name: Flipping Attentional Bias
+    - name: Attentional Bias in Losses
       tag: gain_loss
 design:
   columns: "1"

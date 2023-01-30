@@ -6,15 +6,17 @@ summary: Although models of reference-dependence have become quite influential
   in behavioral economics, and are capable of explaining some puzzling
   phenomena, the fundamental assumption that experienced utility depends on both
   consumption and surprise has not been tested. This project seeks to determine
-  whether Koszegi-Rabin preferences (Koszegi and Rabin, 2006) have a
+  whether Koszegi-Rabin news utility preferences (Koszegi and Rabin, 2009) have a
   biologically feasible foundation. We use an fMRI experiment where we
-  manipulate subjects' expectations about the probability of receiving an
-  appetitive juice versus a neutral solution. We look at value signals encoded
+  manipulate subjects' expectations about the probability of viewing a rewarding 
+  stimulus. We look at value signals encoded
   in the orbitofrontal cortex at the time of consumption to see if these signals
   depend solely on consumption utility, or if they are also modulated by
   surprise utility. *Winner of the 2022 Chen Graduate Innovator Grant.*
 authors:
   - Brenden Eum
+  - Zeynep Enkavi
+  - John O'Doherty
   - Antonio Rangel
 url_video: ""
 date: 2022-02-17T02:44:17.563Z
@@ -32,4 +34,14 @@ image:
 url_code: ""
 ---
 
-Although models of reference-dependence have become quite influential in behavioral economics, and are capable of explaining some puzzling phenomena, the fundamental assumption that experienced utility depends on both consumption and surprise has not been tested. This project seeks to determinewhether Koszegi-Rabin preferences (Koszegi and Rabin, 2006) have a biologically feasible foundation. We use an fMRI experiment where we manipulate subjects' expectations about the probability of receiving an appetitive juice versus a neutral solution. We look at value signals encoded in the orbitofrontal cortex at the time of consumption to see if these signals depend solely on consumption utility, or if they are also modulated by surprise utility. *Winner of the 2022 Chen Graduate Innovator Grant.*
+Although models of reference-dependence have become quite influential
+in behavioral economics, and are capable of explaining some puzzling
+phenomena, the fundamental assumption that experienced utility depends on both
+consumption and surprise has not been tested. This project seeks to determine
+whether Koszegi-Rabin news utility preferences (Koszegi and Rabin, 2009) have a
+biologically feasible foundation. We use an fMRI experiment where we
+manipulate subjects' expectations about the probability of viewing a rewarding 
+stimulus. We look at value signals encoded
+in the orbitofrontal cortex at the time of consumption to see if these signals
+depend solely on consumption utility, or if they are also modulated by
+surprise utility. *Winner of the 2022 Chen Graduate Innovator Grant.*
