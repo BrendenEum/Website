@@ -1,6 +1,6 @@
 ---
 slides: Value signals in the orbitofrontal cortex incorporate reference-dependent
-  surprise utility 
+  news utility 
 url_pdf: ""
 summary: Although models of reference-dependence have become quite influential
   in behavioral economics, and are capable of explaining some puzzling
@@ -23,7 +23,7 @@ date: 2022-02-17T02:44:17.563Z
 external_link: ""
 url_slides: ""
 title: Value signals in the orbitofrontal cortex incorporate reference-dependent
-  surprise utility
+  news utility
 tags:
   - surprise_utility
 links: []

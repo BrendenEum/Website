@@ -9,11 +9,11 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Surprise Utility
+    - name: Information Preferences
       tag: surprise_utility
     - name: Numerosity Perception
       tag: biased_prior
-    - name: Attentional Bias in Losses
+    - name: Attentional Biases
       tag: gain_loss
 design:
   columns: "1"
