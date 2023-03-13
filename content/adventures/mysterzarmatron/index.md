@@ -1,15 +1,15 @@
 ---
-title: McCain Valley Cracks
+title: MysterZ Armatron Linkup
 subtitle: 
 
 # Summary for listings and search engines
-summary: \[2022.11.13\] There are some stellar cracks hidden out in the middle of nowhere near San Diego.
+summary: \[2022.12.05\] 1850 feet, 13 pitches, one day.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-11-13"
+date: "2022-12-05"
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -27,11 +27,20 @@ tags:
 categories:
 ---
 
+Kai and I decided to try the link up between MysterZ (T 5.7, 7 pitches) and Armatron (T 5.9, 6 pitches). We woke up at 5 am, ate some instant noodles for breakfast, grabbed our gear, and drove out in the dark. By the time we parked at the trailhead for Jackrabbit Buttress, the sun was just rising. It took us over an hour to hike to the base of MysterZ, and by the time we got tho there (around 7:30 am), both of us had already worked up a sweat.
 
-Yujia and I made a quick trip to McCain Valley, about an hour and a half SE of San Diego. It looked like there were some interesting cracks out there worth checking out. And boy were they worth it. 
+I led the first pitch, but was feeling a little bit out of the zone. My head wasn't in a calm state, and I ended up spending quite a bit of time on my leads during MysterZ. I spent most of my time on MysterZ quietly scolding myself in my head to get it together. By the time we reached the upper slabs, I had whipped my mindset into shape and was ready to hit Armatron with a fresh outlook. Kai and I pitched out pitches 1 through 5, then simuled pitches 6 and 7 since they were mostly low 5th class slab. 
 
-We started the day on Green Book (T 5.9), which is a finger crack dihedral. It was a fantastic climb, utilizing stemming, finger jamming, and laybacking. My only complaint is that this incredible climb isn't long enough! If it was double the length, I'd bet it'd be considered a classic in the count.
+We reached the ledge between MysterZ and Armatron at around 11:15 am. We contemplated whether we had enough time to finish Armatron as we chowed down on some banh mi's. We were on the wall by 11:30 am. Kai led the first pitch. I wanted to take the second pitch since I heard it was the most interesting on the whole route. I think pitch 2 and 4 on Armatron both share that title. 
 
-After Green Book, we hopped on a route simply called Crack (T 5.10b). It's mind-boggling that such a high quality route doesn't have a more interesting name. Perhaps because it is hidden away off to the side of a relatively unknown crag. It's 50 feet of thin finger crack, with occasional thin hands pods. It feels a bit like the lower half of Digits Delight or Jaws at Mt Woodson, if either of those routes were lower angle. The difficulty is sustained throughout the route, and it forces you to really look for good ring locks and jams. The first few moves required feet out and to the right, twisting your body diagonally. Gear mostly .2 to .5. I think I used a .75 near the top?
+The climbing on Armatron was quite unique. About halfway through pitch 2, the rock transitions from off-white with friction to a slippery dark brown. Although it was more slippery, the dark brown section (which lasted until the final pitch) yielded some of the most interesting climbing I've seen outdoors. It was almost like a grid of ladders, which allowed for plenty of freedom to choose which way you wanted to go. The gaps between the holds were perfect for nuts; I don't think I've ever placed that many bomber nuts in a row before.
 
-![screen reader text](crack.jpg "Crack")
+On the final pitch, there was a bit of a boulder like problem before reaching the final headwall. I felt like the boulder problem was around V0+ or V1. It begins on a deep ledge, so there isn't any exposure underneath you. Oh well. It still felt heroic to pull through after such a long day.
+
+Kai and I signed the notebook at the summit at exactly 3:16 pm, headed down the trail behind the mountain, and spent the next 3 hours trekking back to the car. By the time we were hiking on flat ground, the sun was setting.
+
+Later that night, Kai was on boyfriend duty and waited like an hour for oysters at some casino. I happily skipped out on waiting and instead got some chopped cheese with Matt at some local brewery.
+
+What a great day.
+
+![screen reader text](armatron.jpg "Armatron")
