@@ -30,14 +30,14 @@ categories:
 
 Yujia and I did the South Keibab to Bright Angel Loop. We stopped at the Phantom Ranch for lunch. Roughly 17 miles and over 4,000 ft of elevation gain.
 
-![screen reader text](gc.jpg)
+![screen reader text](gc.jpg "Grand Canyon")
 
 Next we visited Antelope Canyon via the Colorado River. We kayaked 2 hours to get to a small beach and hiked for about 40 minutes.
 
-![screen reader text](ant.jpg)
+![screen reader text](ant.JPG "Antelope Canyon")
 
 We then made our way to Bryce Canyon for a short hike on the Sunset to Sunrise Point Trail. Didn't have much time before sunset, so we figured we'd keep it short.
 
-![screen reader text](bryce.jpg)
+![screen reader text](bryce.jpg "Bryce Canyon")
 
 Our last stop was Zion, featured above. We only had a few hours to hike, so we decided to hike the Zion Canyon Overlook Trail.
