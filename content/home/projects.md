@@ -15,6 +15,8 @@ content:
       tag: surprise_utility
     - name: Numerosity Perception
       tag: biased_prior
+    - name: Information Weights in Sequential Sampling
+      tag: biased_prior
 design:
   columns: "1"
   view: 2
