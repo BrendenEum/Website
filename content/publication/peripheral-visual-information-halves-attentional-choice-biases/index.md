@@ -6,7 +6,7 @@ authors:
   - admin
   - Stephanie Dolbier
   - Antonio Rangel
-publication: R&R, Psychological Science
+publication: Accepted, Psychological Science
 publication_short: ""
 abstract: "A growing body of research has shown that simple choices involve the
   construction and comparison of values at the time of decision. These processes
@@ -31,6 +31,6 @@ image:
   preview_only: false
 summary: Peripheral visual information facilitates good decisions through an
   attentional bias mechanism.
-date: 2022-02-17T00:35:27.153Z
+date: 2023-07-15T00:35:27.153Z
 ---
-[Download here.](https://www.rnl.caltech.edu/publications/pdf/eum2021_preprint.pdf)
+[Download here.](https://www.rnl.caltech.edu/publications/index.html)

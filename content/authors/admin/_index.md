@@ -4,9 +4,9 @@ role: PhD Candidate, Social & Decision Neuroscience
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
 interests:
-  - Attention
+  - Attention in choice
+  - Consumer behavior
   - Information preferences
-  - Reference dependence
   - Value signals in the brain
   - Efficient coding
 social:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD Social & Decision Neuroscience
       institution: California Institute of Technology
-      year: 2023
+      year: 2024
     - course: MA Economics
       institution: Columbia University
       year: 2017
@@ -42,4 +42,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate in Social & Decision Neuroscience at Caltech and a member of the Rangel Neuroeconomics Lab. I utilize tools from economics, neuroscience, and psychology to study how attention, perception, and context affect human decision-making. Prior to coming to Caltech, I earned my MA in Economics from Columbia University and completed a predoctoral fellowship at the Columbia Business School Economics Division. Outside of academics, I am an avid rock climber, snowboarder, and energy expenditure enthusiast.
+I am a PhD candidate in Social & Decision Neuroscience at Caltech and a member of the Rangel Neuroeconomics Lab. I utilize tools from economics, neuroscience, and psychology to study how attention, perception, and context affect human decision-making. Prior to coming to Caltech, I earned my MA in Economics from Columbia University and completed a predoctoral fellowship at Columbia Business School (Economics Division). Outside of academics, I am an avid rock climber, snowboarder, and energy expenditure enthusiast.
