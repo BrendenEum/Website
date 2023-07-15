@@ -9,14 +9,14 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Attentional Bias in Loss
+    - name: Attentional bias in loss
       tag: gain_loss
-    - name: Information Preferences in the Brain
+    - name: Information preferences in the brain
       tag: surprise_utility
-    - name: Numerosity Perception
+    - name: Numerosity perception
       tag: biased_prior
-    - name: Information Weights in Sequential Sampling
-      tag: biased_prior
+    - name: Sequential sampling weights
+      tag: sequential_sampling_weights
 design:
   columns: "1"
   view: 2
