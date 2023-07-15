@@ -1,5 +1,5 @@
 ---
-slides: Attentional biases in gains, attentional anomalies in losses
+slides: Attentional Over-Weighting in Gains, Attentional Under-Weighting in Losses
 url_pdf: ""
 summary: Recent work has shown that attention alters the construction and comparison of values during decision-making. Here we study how attention alters the choice process when options involve losses. Using an eye-tracking experiment with binary choices between lotteries, we find that attentional biases may flip in choices between losses compared to choices between gains.
 authors:
@@ -7,10 +7,10 @@ authors:
   - Stephen Gonzalez
   - Antonio Rangel
 url_video: ""
-date: 2022-02-17T02:44:17.563Z
+date: 2023-07-15T02:44:17.563Z
 external_link: ""
 url_slides: ""
-title: Attentional biases in gains, attentional anomalies in losses
+title: Attentional Over-Weighting in Gains, Attentional Under-Weighting in Losses
 tags:
   - gain_loss
 links: []
