@@ -1,12 +1,12 @@
 ---
-title: Peripheral visual information halves attentional choice biases
+title: Peripheral Visual Information Halves Attentional Choice Biases
 publication_types:
   - "3"
 authors:
   - admin
   - Stephanie Dolbier
   - Antonio Rangel
-publication: Accepted, Psychological Science
+publication: Psychological Science
 publication_short: ""
 abstract: "A growing body of research has shown that simple choices involve the
   construction and comparison of values at the time of decision. These processes
