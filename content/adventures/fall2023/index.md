@@ -83,4 +83,4 @@ Aside from the climbing, Camp 4 was just like the stories. Plenty of interesting
 
 At Generator Crack, we met some dudes from Arizona who quit their jobs and came to work in Yosemite so they could climb more. Also some weekenders from San Fran. They helped me learn how to Levittate, which is how I managed to get to the top of Generator Crack (with hangs)!
 
-![screen reader text](gear.jpg "Holy gear!")
+![screen reader text](gear.jpeg "Holy gear!")
