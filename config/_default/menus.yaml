@@ -25,8 +25,9 @@ main:
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
   - name: "  Late Night Bayes ☾  "
-    url: 'http://latenightbayes.com/index.html'
+    url: 'https://www.brendeneum.com/LateNightBayes/'
     weight: 55
+#    url: 'http://latenightbayes.com/index.html'
   - name: "  Contact  "
     url: '#contact'
     weight: 60
