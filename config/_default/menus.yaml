@@ -13,11 +13,6 @@ main:
   - name: "  Teaching  "
     url: 'https://www.brendeneum.com/teaching/'
     weight: 25
-#  - name: "  Graduate Consulting  "
-#    url: 'https://www.brendeneum.com/consulting/'
-#    weight: 30
-    # Link to a PDF of your resume/CV from the menu.
-    # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: "  CV  "
     url: uploads/cv.pdf
     weight: 40
@@ -25,9 +20,8 @@ main:
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
   - name: "  Late Night Bayes ☾  "
-    url: 'https://www.brendeneum.com/LateNightBayes/'
+    url: 'http://latenightbayes.com/index.html'
     weight: 55
-#    url: 'http://latenightbayes.com/index.html'
   - name: "  Contact  "
     url: '#contact'
     weight: 60
