@@ -13,6 +13,10 @@ content:
       tag: gain_loss
     - name: Risky Choices from Experience and Information Preferences
       tag: sequential_sampling_weights
+    - name: Attention and the Price Elasticity of Demand
+      tag: attention_elasticity
+    - name: Attention and Price-Taking Behavior in Large Markets
+      tag: attention_strategy
 design:
   columns: "1"
   view: 2
