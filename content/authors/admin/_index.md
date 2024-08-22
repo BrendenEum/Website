@@ -1,6 +1,6 @@
 ---
-title: Brenden Eum
-role: PhD Candidate, Social & Decision Neuroscience
+title: Dr. Brenden Eum
+role: Neuroeconomist
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
 interests:
