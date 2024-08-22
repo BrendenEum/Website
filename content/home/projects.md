@@ -9,13 +9,9 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Attentional bias in loss
+    - name: Attention in Aversive Choices
       tag: gain_loss
-    - name: Information preferences in the brain
-      tag: surprise_utility
-    - name: Numerosity perception
-      tag: biased_prior
-    - name: Sequential sampling weights
+    - name: Risky Choices from Experience and Information Preferences
       tag: sequential_sampling_weights
 design:
   columns: "1"
