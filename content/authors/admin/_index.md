@@ -1,5 +1,5 @@
 ---
-title: Dr. Brenden Eum
+title: Brenden Eum
 role: Neuroeconomist
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
