@@ -42,7 +42,7 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! I am currently a Postdoctoral Fellow in Marketing at the University of Toronto, Rotman School of Management.
+Hello! I am currently a Postdoctoral Fellow in Marketing with [Dr. Ryan Webb](http://ryan-webb.com/) at the Rotman School of Management.
 
 I utilize tools from economics, neuroscience, and psychology to study how attention, context, and perception affect consumer judgement and decision-making, with a recent focus using attention and response time metrics to study market dynamics and improve demand estimation.
 
