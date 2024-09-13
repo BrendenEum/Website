@@ -21,10 +21,11 @@ social:
     icon_pack: fab
     link: https://github.com/BrendenEum
 organizations:
-  - name: California Institute of Technology
-    url: https://www.caltech.edu/
-  - name: Rangel Neuroeconomics Lab
-    url: https://www.rnl.caltech.edu/
+  - name: TD Management Data and Analytics Lab
+    url: https://www.rotman.utoronto.ca/faculty-and-research/education-labs/td-management-data-and-analytics-lab/
+  - name: Rotman School of Management
+    url: https://www.rotman.utoronto.ca/
+  - name: University of Toronto
 education:
   courses:
     - course: PhD Social & Decision Neuroscience
@@ -41,9 +42,9 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! I am currently a Postdoctoral Researcher in Marketing at the University of Toronto, Rotman School of Management.
+Hello! I am currently a Postdoctoral Fellow in Marketing at the University of Toronto, Rotman School of Management.
 
-I utilize tools from economics, neuroscience, and psychology to study how attention, context, and perception affect consumer judgement and decision-making, with a recent focus using attention and response time metrics to improve demand estimation and design more efficient markets.
+I utilize tools from economics, neuroscience, and psychology to study how attention, context, and perception affect consumer judgement and decision-making, with a recent focus using attention and response time metrics to study market dynamics and improve demand estimation.
 
 I recently received my Ph.D. in Social and Decision Neuroscience from Caltech, where I was advised by Antonio Rangel and supported by the Chen Graduate Research Fellowship. Before that, I spent 2 years as a predoctoral fellow at Columbia Business School (Economics Division) and received an M.A. in Economics from Columbia University.
 
