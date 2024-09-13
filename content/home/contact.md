@@ -14,16 +14,17 @@ content:
       captcha: true
   autolink: true  
   office_hours:
-    - Monday through Thursday 10:30 to 17:00
-  phone: 714 906 7269
-  directions: Enter Baxter Hall and take the spiral stairs up to Office 336 on Floor 3
+    - Monday through Friday 10:30 to 17:00 ET
+  phone: 714 906 7269 (US)
+  phone: 647 547 6889 (CA)
+  directions: 
   address:
-    street: 1200 E. California Blvd. MC 228-77
-    city: Pasadena
-    region: CA
-    postcode: "91106"
-    country: United States
-    country_code: US
+    street: 105 St. George Street
+    city: Toronto
+    region: Ontario
+    postcode: "M5S 3E6"
+    country: Canada
+    country_code: CA
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -36,7 +37,7 @@ content:
   coordinates:
     latitude: "34.13923916505131"
     longitude: "-118.12488145028351"
-  email: beum@caltech.edu
+  email: eum.brenden@gmail.com
 design:
   columns: "2"
 features:
