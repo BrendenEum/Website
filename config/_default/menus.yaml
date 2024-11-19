@@ -12,16 +12,19 @@ main:
     weight: 20
   - name: "  Teaching  "
     url: 'https://www.brendeneum.com/teaching/'
-    weight: 25
+    weight: 30
   - name: "  CV  "
     url: uploads/cv.pdf
     weight: 40
   - name: "  Adventures  "
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
-  - name: "  Late Night Bayes ☾  "
+  - name: "  Late Night Bayes (2024) "
     url: 'http://latenightbayes.com/index.html'
-    weight: 55
+    weight: 60
+  - name: "  Late Night Bayes ☾ (coming 2025) "
+    url: 'https://www.brendeneum.com/latenightbayes/'
+    weight: 70
   - name: "  Contact  "
     url: '#contact'
-    weight: 60
+    weight: 80
