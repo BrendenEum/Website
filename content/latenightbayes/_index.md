@@ -1,15 +1,13 @@
 ---
-title: Late Night Bayes
-author: Brenden Eum
-date: 2024-11-19
+title: Welcome to Late Night Bayes!
 cms_exclude: true
 ---
 
-# Welcome!
+Brenden Eum (2024-11-19)
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
-<audio controls autoplay>
+<audio controls>
   <source src="aruarian_dance_remix.mp3" type="audio/mpeg">
 </audio>
 
@@ -19,16 +17,16 @@ Sometimes when I have time I like to make music. The music on this home page is 
 
 Feel free to shoot me an email if you have any questions or if you just want to chat (b.eum@rotman.utoronto.edu)!
 
-1. [Late Night Bayes (prior to Dec 2024)](https://latenightbayes.com/)
+- [Late Night Bayes (prior to Dec 2024)](https://latenightbayes.com/)
    <div class="link-with-image">
        <a href="https://latenightbayes.com/" target="_blank">
-           <img src="images_for_links/dcb-collapsingbounds.gif" style="width: 300px; height: auto; margin: 0 auto;" />
+           <img src="images_for_links/dcb-collapsingbounds.gif" style="width: 300px; height: auto; float: left; margin-right: 10px" />
        </a>
    </div>
 
-2. [Python Test Page](https://latenightbayes-python-test.netlify.app)
+- [Python Test Page](https://latenightbayes-python-test.netlify.app)
    <div class="link-with-image">
        <a href="https://latenightbayes-python-test.netlify.app" target="_blank">
-           <img src="images_for_links/python_test.gif.gif" style="width: 300px; height: auto; margin: 0 auto;" />
+           <img src="images_for_links/python_test.gif" style="width: 300px; height: auto; float: left; margin-right: 10px;" />
        </a>
    </div>
