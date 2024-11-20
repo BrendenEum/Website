@@ -19,12 +19,9 @@ main:
   - name: "  Adventures  "
     url: 'https://www.brendeneum.com/adventures/'
     weight: 50
-  - name: "  Late Night Bayes (2024) "
-    url: 'http://latenightbayes.com/index.html'
-    weight: 60
-  - name: "  Late Night Bayes ☾ (coming 2025) "
+  - name: "  Late Night Bayes ☾ "
     url: 'https://www.brendeneum.com/latenightbayes/'
-    weight: 70
+    weight: 60
   - name: "  Contact  "
     url: '#contact'
-    weight: 80
+    weight: 70
