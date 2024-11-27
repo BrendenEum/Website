@@ -21,3 +21,5 @@ url_code: ""
 ---
 
  As the number of unexceptional participants in a market increases, players to shift towards price-taking behavior. We explore the extent to which this shift in strategy is driven by (lack of) attention to the distribution of other players.
+
+ [Keep track of my progress here.](https://rpubs.com/BrendenEum/rt-markets)
