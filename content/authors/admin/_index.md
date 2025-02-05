@@ -3,10 +3,11 @@ title: Brenden Eum
 role: Neuroeconomist
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
-interests:
-  - Attention in consumer choices
-  - Efficient coding
-  - Information preferences
+expertise:
+  - Process Tracing Methods (e.g. Eye Tracking)
+  - Cognitive Modeling
+  - Consumer Behavior
+  - Behavioral Economics and Market Behavior
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,10 +43,10 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! I am currently a Postdoctoral Fellow in Marketing with [Ryan Webb](http://ryan-webb.com/) at the Rotman School of Management.
+Hello! I am currently a Postdoctoral Fellow in the Marketing Department at Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
 
-I utilize tools from economics, neuroscience, and psychology to study how attention, context, and perception affect consumer judgement and decision-making, with a recent focus on using attention and response time metrics to study market dynamics and improve demand estimation.
+I use tools from neuroscience, psychology, and economics to explore how attention, context, and perception shape consumer decision-making, with a recent focus on leveraging response time metrics to analyze market dynamics and enhance demand estimation.
 
-I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) from Caltech, where I was advised by [Antonio Rangel](https://www.rnl.caltech.edu/) and supported by the [Chen Graduate Research Fellowship](https://neuroscience.caltech.edu/people/chen-graduate-fellows/2019-2020). Before that, I spent 2 years as a [predoctoral fellow at Columbia Business School](https://business.columbia.edu/research-resources/research-opportunities/predoctoral-staff-associates) (Economics Division) and received an M.A. in Economics from Columbia University.
+I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) from Caltech, where I was advised by [Antonio Rangel](https://www.rnl.caltech.edu/) and supported by the [Chen Graduate Research Fellowship](https://neuroscience.caltech.edu/people/chen-graduate-fellows/2019-2020). Before that, I was as a [predoctoral fellow at Columbia Business School](https://business.columbia.edu/research-resources/research-opportunities/predoctoral-staff-associates) (Economics Division) for two years and earned an M.A. in Economics from Columbia University.
 
-Outside of research, I am obsessed with rock climbing and also enjoy backpacking, snowboarding, and cycling. 
+Beyond research, I'm an avid rock climber and also enjoy backpacking, snowboarding, and cycling. 
