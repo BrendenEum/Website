@@ -3,11 +3,11 @@ title: Brenden Eum
 role: Neuroeconomist
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
-expertise:
+interests:
   - Process Tracing Methods (e.g. Eye Tracking)
   - Cognitive Modeling
   - Consumer Behavior
-  - Behavioral Economics and Market Behavior
+  - Behavioral Economics
 social:
   - icon: envelope
     icon_pack: fas
