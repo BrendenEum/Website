@@ -19,17 +19,13 @@ content:
   phone: 647 547 6889 (CA)
   directions: 
   address:
-    street: 105 St. George Street
+    street: 105 St. George Street, Room 3001
     city: Toronto
     region: Ontario
     postcode: "M5S 3E6"
     country: Canada
     country_code: CA
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/EumBrenden
     - icon: video
       icon_pack: fas
       name: Zoom Me
@@ -37,7 +33,7 @@ content:
   coordinates:
     latitude: "34.13923916505131"
     longitude: "-118.12488145028351"
-  email: eum.brenden@gmail.com
+  email: b.eum@rotman.utoronto.ca
 design:
   columns: "2"
 features:
