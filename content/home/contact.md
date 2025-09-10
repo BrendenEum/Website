@@ -19,7 +19,7 @@ content:
   phone: 647 547 6889 (CA)
   directions: 
   address:
-    street: 105 St. George Street, Room 3001
+    street: 105 St. George Street, Room 9080
     city: Toronto
     region: Ontario
     postcode: "M5S 3E6"
@@ -33,7 +33,7 @@ content:
   coordinates:
     latitude: "34.13923916505131"
     longitude: "-118.12488145028351"
-  email: b.eum@rotman.utoronto.ca
+  email: "b.eum 'at' rotman.utoronto.ca"
 design:
   columns: "2"
 features:
