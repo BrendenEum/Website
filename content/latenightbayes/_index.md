@@ -9,7 +9,7 @@ Brenden Eum (2025)
 
 Aruarian Dance Remix
 <audio controls>
-  <source src="aruarian_dance_remix.mp3" type="audio/mpeg">
+  <source src="audio/aruarian_dance_remix.mp3" type="audio/mpeg">
 </audio>
 
 
