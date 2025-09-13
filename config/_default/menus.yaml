@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: "  Publications  "
-    url: 'https://www.brendeneum.com/publication/'
+    url: 'https://www.brendeneum.com/publications/'
     weight: 20
   - name: "  Teaching  "
     url: 'https://www.brendeneum.com/teaching/'
@@ -22,6 +22,9 @@ main:
   - name: "  Late Night Bayes ☾ "
     url: 'https://www.brendeneum.com/latenightbayes/'
     weight: 60
+  - name: "  Music  "
+    url: 'https://www.brendeneum.com/music/'
+    weight: 70
   - name: "  Contact  "
     url: '#contact'
-    weight: 70
+    weight: 80
