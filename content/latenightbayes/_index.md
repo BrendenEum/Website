@@ -7,10 +7,10 @@ Brenden Eum (2025)
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
-Aruarian Dance Remix
+If you don't like funk, we can't be friends
 
 <audio controls preload="metadata">
-  <source src="files/aruarian_dance_remix.mp3" type="audio/mpeg">
+  <source src="files/big_funky_d.mp3" type="audio/mpeg">
 </audio>
 
 

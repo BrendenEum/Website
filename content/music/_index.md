@@ -65,8 +65,8 @@ Bad Bad News Cover
   <source src="files/bad_bad_news_short.mp3" type="audio/mpeg">
 </audio>
 
-Funky D Minor
+Big Funky D
 
 <audio controls>
-  <source src="files/funky_d_minor.mp3" type="audio/mpeg">
+  <source src="files/big_funky_d.mp3" type="audio/mpeg">
 </audio>
