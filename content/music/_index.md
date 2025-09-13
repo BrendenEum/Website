@@ -57,5 +57,5 @@ Bad Bad News Cover
 
 Funky D Minor
 <audio controls>
-  <source src="audio/funky_d_minor.wav" type="audio/wav">
+  <source src="audio/funky_d_minor.mp3" type="audio/mpeg">
 </audio>
