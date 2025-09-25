@@ -5,6 +5,18 @@ cms_exclude: true
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
+Big Funky D
+
+<audio controls>
+  <source src="files/big_funky_d.mp3" type="audio/mpeg">
+</audio>
+
+Silver Lining Cover
+
+<audio controls>
+  <source src="files/silver_lining.mp3" type="audio/mpeg">
+</audio>
+
 Aruarian Dance Remix
 
 <audio controls>
@@ -63,10 +75,4 @@ Bad Bad News Cover
 
 <audio controls>
   <source src="files/bad_bad_news_short.mp3" type="audio/mpeg">
-</audio>
-
-Big Funky D
-
-<audio controls>
-  <source src="files/big_funky_d.mp3" type="audio/mpeg">
 </audio>
