@@ -5,6 +5,12 @@ cms_exclude: true
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
+Dean Town (Cover) (Work-in-Progress)
+
+<audio controls>
+  <source src="files/dean_town_v1.mp3" type="audio/mpeg">
+</audio>
+
 Big Funky D
 
 <audio controls>
