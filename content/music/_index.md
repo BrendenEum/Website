@@ -8,7 +8,7 @@ cms_exclude: true
 Dean Town (Cover) (Work-in-Progress with Graham, Mandy, and Natalie)
 
 <audio controls>
-  <source src="files/dean_town_v1.mp3" type="audio/mpeg">
+  <source src="files/dean_town.mp3" type="audio/mpeg">
 </audio>
 
 Big Funky D
