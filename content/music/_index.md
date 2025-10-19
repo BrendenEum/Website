@@ -5,6 +5,12 @@ cms_exclude: true
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
+Silver Lining (Cover) (with Natalie on vocals and Mandy on keys)
+
+<audio controls>
+  <source src="files/silver_lining.mp3" type="audio/mpeg">
+</audio>
+
 Dean Town (Cover) (Work-in-Progress with Graham, Mandy, and Natalie)
 
 <audio controls>
@@ -15,12 +21,6 @@ Big Funky D
 
 <audio controls>
   <source src="files/big_funky_d.mp3" type="audio/mpeg">
-</audio>
-
-Silver Lining Cover
-
-<audio controls>
-  <source src="files/silver_lining.mp3" type="audio/mpeg">
 </audio>
 
 Aruarian Dance Remix
