@@ -43,9 +43,9 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! I am currently a Postdoctoral Fellow in the Marketing Department at Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
+Hello! I am currently a Postdoctoral Fellow in the Marketing Department at the Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
 
-I use tools from neuroscience, psychology, and economics to explore how attention, context, and perception shape consumer decision-making, with a recent focus on leveraging response time metrics to analyze market dynamics and enhance demand estimation.
+My research examines how decision time and attention shape market outcomes. To accomplish this, I draw on methods from neuroscience, economics, psychology, and marketing to study both individual choice and aggregate behavior. My current projects include: (1) explaining how decision time contributes to price convergence toward competitive equilibria in the absence of market rules, (2) improving demand forecasting using neural and eye-tracking data, and (3) leveraging decision time data to improve social welfare and user experience in matching markets. I also have a complimentary stream of work in individual decision making, focusing on how attention to aversive attributes influences choice.
 
 I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) from Caltech, where I was advised by [Antonio Rangel](https://www.rnl.caltech.edu/) and supported by the [Chen Graduate Research Fellowship](https://neuroscience.caltech.edu/people/chen-graduate-fellows/2019-2020). Before that, I was as a [predoctoral fellow at Columbia Business School](https://business.columbia.edu/research-resources/research-opportunities/predoctoral-staff-associates) (Economics Division) for two years and earned an M.A. in Economics from Columbia University.
 
