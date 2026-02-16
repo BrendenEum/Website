@@ -29,6 +29,12 @@ Big Funky D
   <source src="files/big_funky_d.mp3" type="audio/mpeg">
 </audio>
 
+Otonoke (Cover) (Vocals by Creepy Nuts, everything else is from scratch)
+
+<audio controls>
+  <source src="files/dandandan.mp3" type="audio/mpeg">
+</audio>
+
 Aruarian Dance Remix
 
 <audio controls>
