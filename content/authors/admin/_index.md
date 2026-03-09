@@ -4,10 +4,11 @@ role: Neuroeconomist
 avatar_filename: avatar.jpg
 bio: Neuroeconomist
 interests:
-  - Process Tracing Methods (e.g. Eye Tracking)
-  - Cognitive Modeling
-  - Consumer Behavior
-  - Behavioral Economics
+  - Visual Attention & Consumer Choice
+  - Demand Estimation & Forecasting
+  - Market Design & Consumer Welfare
+  - Computational Models of Decision Making
+  - Digital Advertising Effectiveness
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,7 +46,7 @@ highlight_name: true
 
 Hello! I am currently a Postdoctoral Fellow in the Marketing Department at the Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
 
-My research focuses on **brains in markets**: how the choice process shapes both individual choices and aggregate market outcomes. At the market level, I apply insights from neuroscience to distinct contexts, including the role of decision speed in price convergence, the use of neural data for demand forecasting, and the optimization of matching markets via decision time. At the individual level, I focus on how attention to aversive stimuli influences choice.
+My research focuses on **brains in markets**: The computational properties of brains (how they accumulate evidence, allocate attention, encode value) have direct, measurable consequences for demand, prices, welfare, and market design. I build computational models of how individuals think and choose. These models both explain market-level outcomes (from ad click-through rates and vehicle demand to price dynamics and allocative efficiency) and provide the foundation for designing better markets, mechanisms, and choice environments that improve consumer welfare.
 
 I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) from Caltech, where I was advised by [Antonio Rangel](https://www.rnl.caltech.edu/) and supported by the [Chen Graduate Research Fellowship](https://neuroscience.caltech.edu/people/chen-graduate-fellows/2019-2020). Before that, I was as a [predoctoral fellow at Columbia Business School](https://business.columbia.edu/research-resources/research-opportunities/predoctoral-staff-associates) (Economics Division) for two years and earned an M.A. in Economics from Columbia University.
 
