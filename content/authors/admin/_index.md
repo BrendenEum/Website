@@ -44,7 +44,7 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! I am currently a Postdoctoral Fellow in the Marketing Department at the Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
+I am currently a Postdoctoral Fellow in the Marketing Department at the Rotman School of Management, working with [Ryan Webb](http://ryan-webb.com/).
 
 My research focuses on **brains in markets**: The computational properties of brains (how they accumulate evidence, allocate attention, encode value) have direct, measurable consequences for demand, prices, welfare, and market design.
 
