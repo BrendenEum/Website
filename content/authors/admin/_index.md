@@ -54,4 +54,4 @@ I use structural models of the decision-making process and experiments to explor
 
 I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.hss.caltech.edu/graduate-studies/social-and-decision-neuroscience-phd-program) from Caltech, where I was advised by [Antonio Rangel](https://www.rnl.caltech.edu/) and supported by the [Chen Graduate Research Fellowship](https://neuroscience.caltech.edu/people/chen-graduate-fellows/2019-2020). Before that, I was as a [predoctoral fellow at Columbia Business School](https://business.columbia.edu/research-resources/research-opportunities/predoctoral-staff-associates) (Economics Division) for two years and earned an M.A. in Economics from Columbia University.
 
-Beyond research, I'm an avid rock climber and also enjoy backpacking, running, and music production. 
+Beyond research, I'm an avid rock climber and also enjoy backpacking, running, and music production. I also host [Articordle](https://articordle.com), a Wordle-like game where you guess a random paper from your own Zotero library using a series of five clues.

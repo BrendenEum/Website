@@ -10,21 +10,24 @@ main:
   - name: "  Publications  "
     url: 'https://www.brendeneum.com/publications/'
     weight: 20
-  - name: "  Teaching  "
-    url: 'https://www.brendeneum.com/teaching/'
-    weight: 30
   - name: "  CV  "
     url: uploads/cv.pdf
+    weight: 30
+  - name: "  Teaching  "
+    url: 'https://www.brendeneum.com/teaching/'
     weight: 40
-  - name: "  Adventures  "
-    url: 'https://www.brendeneum.com/adventures/'
-    weight: 50
   - name: "  Late Night Bayes ☾ "
     url: 'https://www.brendeneum.com/latenightbayes/'
+    weight: 50
+  - name: "  Articordle  "
+    url: 'https://articordle.com'
     weight: 60
   - name: "  Music  "
     url: 'https://www.brendeneum.com/music/'
     weight: 70
+  - name: "  Adventures  "
+    url: 'https://www.brendeneum.com/adventures/'
+    weight: 80
   - name: "  Contact  "
     url: '#contact'
-    weight: 80
+    weight: 90
