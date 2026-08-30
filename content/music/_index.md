@@ -5,6 +5,12 @@ cms_exclude: true
 
 <img src="images_for_links/latenightbayes_home.gif" style="width: 600px; height: auto; margin: 0 auto;" />
 
+Charlie's Chops (Original)
+
+<audio controls>
+  <source src="files/charlie_chops.mp3" type="audio/mpeg">
+</audio>
+
 One More Hour (Cover)
 
 <audio controls>
