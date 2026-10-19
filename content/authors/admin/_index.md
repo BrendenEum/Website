@@ -56,4 +56,4 @@ I recently received my [Ph.D. in Social and Decision Neuroscience](https://www.h
 
 Beyond research, I'm an avid rock climber and also enjoy backpacking, running, and music production. I also host [Articordle](https://articordle.com), a Wordle-like game where you guess a random paper from your own Zotero library using a series of five clues.
 
-[Lab experiment server](https://rtm-sixsnack-cfbb120d83a3.herokuapp.com/demo)
+Lab experiment: [P1](https://rtm-sixsnack-cfbb120d83a3.herokuapp.com/InitializeParticipant/x8alb5wu) · [P2](https://rtm-sixsnack-cfbb120d83a3.herokuapp.com/InitializeParticipant/s0joj24n) · [P3](https://rtm-sixsnack-cfbb120d83a3.herokuapp.com/InitializeParticipant/41ssnflq) · [P4](https://rtm-sixsnack-cfbb120d83a3.herokuapp.com/InitializeParticipant/72q5am9x)
